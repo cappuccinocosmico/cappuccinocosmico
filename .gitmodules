@@ -1,0 +1,24 @@
+[submodule "themes/hyde"] 
+  path = themes/hyde 
+  url = git@github.com:htr3n/hyde-hyde.git
+[submodule "themes/tranquil"]
+	path = themes/hugo-tranquilpeak-theme
+	url = git@github.com:kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = git@github.com:htr3n/hyde-hyde.git
+[submodule "themes/kube"]
+	path = themes/kube
+	url = https://github.com/jeblister/kube.git
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/hugo-theme-docdock"]
+	path = themes/hugo-theme-docdock
+	url = git@github.com:vjeantet/hugo-theme-docdock.git
+[submodule "themes/github-project-landing-page"]
+	path = themes/github-project-landing-page
+	url = git@github.com:nsomar/github-project-landing-page.git
+[submodule "content"]
+	path = content
+	url = git@github.com:cappuccinocosmico/uninteligablecontent.git
